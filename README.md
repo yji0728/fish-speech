@@ -149,6 +149,8 @@ Both S1 and S1-mini incorporate online Reinforcement Learning from Human Feedbac
 
 7. **Deploy-Friendly:** Easily set up an inference server with native support for Linux and Windows (macOS support coming soon), minimizing performance loss.
 
+8. **MCP Server:** LLM-friendly Model Context Protocol server for seamless integration with AI assistants like Claude Desktop. [See MCP Server docs](docs/MCP_SERVER.md)
+
 ## **Media & Demos**
 
 <div align="center">

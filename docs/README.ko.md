@@ -148,6 +148,8 @@ S1과 S1-mini 모두 온라인 인간 피드백 강화학습(RLHF)을 통합하�
 
 7. **배포 용이성:** Linux 및 Windows를 기본 지원하며(macOS 지원 예정), 성능 손실을 최소화하면서 추론 서버를 쉽게 설정할 수 있습니다.
 
+8. **MCP 서버:** Claude Desktop과 같은 AI 어시스턴트와의 원활한 통합을 위한 LLM 친화적 Model Context Protocol 서버. [MCP 서버 문서 보기](MCP_SERVER.ko.md)
+
 ## **미디어 및 데모**
 
 <div align="center">
