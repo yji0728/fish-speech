@@ -7,13 +7,10 @@ Note: This is a demonstration of the MCP protocol interactions.
 In production, MCP clients like Claude Desktop would handle this automatically.
 """
 
-import asyncio
-import base64
 import json
-from pathlib import Path
 
 
-async def demonstrate_mcp_workflow():
+def demonstrate_mcp_workflow():
     """
     Demonstrate a typical workflow with the Fish Speech MCP Server.
     
@@ -225,7 +222,7 @@ if __name__ == "__main__":
     input("Press Enter to continue...")
     print()
     
-    asyncio.run(demonstrate_mcp_workflow())
+    demonstrate_mcp_workflow()
     
     print()
     input("Press Enter to see configuration example...")
